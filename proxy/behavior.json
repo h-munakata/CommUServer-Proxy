@@ -1,0 +1,12 @@
+{
+    "playmotion": {
+        "greeting": "jp.co.mycommu.greeting",
+        "greeting-deep": "jp.co.mycommu.greeting_deep",
+        "greeting-light": "jp.co.mycommu.greeting_light",
+        "nod": "jp.co.mycommu.nod",
+        "nod-light": "jp.co.mycommu.nod_light",
+        "nod-deep": "jp.co.mycommu.nod_deep",
+        "wavehand": "jp.co.mycommu.wavehand",
+        "shakehead": "jp.co.mycommu.shakehead"
+    }
+}
